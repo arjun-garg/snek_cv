@@ -1,9 +1,8 @@
 .venv/
+model/
 models/
 .vscode/
 temp_dir/
 datasets/
 preds_tests/
 .ipynb_checkpoints/
-model/
-metrics/
