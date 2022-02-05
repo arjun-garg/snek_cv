@@ -61,5 +61,6 @@ We have made multiple scripts. Their descriptions are given below:
 ## Authors
 
 1. Aniket Pradhan
-2. Bhavya Verma
-3. Siddharth Nair
+2. Arjun Garg
+3. Bhavya Verma
+4. Siddharth Nair
